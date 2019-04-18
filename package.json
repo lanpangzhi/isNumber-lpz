@@ -1,0 +1,19 @@
+{
+  "name": "isnumber-lpz",
+  "version": "1.0.0",
+  "description": "Number\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[Cis\u001b[C\u001b[C\u001b[Number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanpangzhi/isNumber-lpz.git"
+  },
+  "author": "lanpangzhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lanpangzhi/isNumber-lpz/issues"
+  },
+  "homepage": "https://github.com/lanpangzhi/isNumber-lpz#readme"
+}
